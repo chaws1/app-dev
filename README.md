@@ -1,9 +1,9 @@
 # app-dev
 My first repository
-<h1>My favorite movie/tv series level 1</h1>
-<ul>
-  <li>Game of Thrones</li>
-  <li>Life of Pi</li>
-  <li>WALL-E</li>
-  <li>Shameless</li>
-</ul>
+## My favorite movie/tv series 
+
+ *1. Game of Thrones
+  *2.Life of Pi
+  *3. WALL-E
+  *4. Shameless
+
